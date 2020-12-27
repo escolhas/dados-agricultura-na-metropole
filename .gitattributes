@@ -1,0 +1,13 @@
+uso_solo_mapbiomas/uso_mapbiomas.geojson filter=lfs diff=lfs merge=lfs -text
+estabelecimentos_innatura_misto/estabelecimentos_innatura_misto.geojson filter=lfs diff=lfs merge=lfs -text
+areas_ambientais/areas_ambientais.geojson filter=lfs diff=lfs merge=lfs -text
+areas_urbanizadas/areas_urbanizadas.geojson filter=lfs diff=lfs merge=lfs -text
+densidade_populacional/densidade_populacional.geojson filter=lfs diff=lfs merge=lfs -text
+escolas_publicas/escolas_publicas.geojson filter=lfs diff=lfs merge=lfs -text
+municipios_RMSP/municipios_RMSP.geojson filter=lfs diff=lfs merge=lfs -text
+RMSP/RMSP.geojson filter=lfs diff=lfs merge=lfs -text
+VBP_municipios/VBP_municipios.geojson filter=lfs diff=lfs merge=lfs -text
+equipamentos_abastecimento/equipamentos_abastecimento.geojson filter=lfs diff=lfs merge=lfs -text
+estabelecimentos_agropecuarios/estabelecimentos_agropecuarios.geojson filter=lfs diff=lfs merge=lfs -text
+estabelecimentos_ultraprocessados/estabelecimentos_ultraprocessados.geojson filter=lfs diff=lfs merge=lfs -text
+IPVS/ipvs.geojson filter=lfs diff=lfs merge=lfs -text
