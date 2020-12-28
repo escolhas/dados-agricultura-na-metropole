@@ -1,8 +1,11 @@
-# Agricultura na metropole - RMSP
+![](https://raw.githubusercontent.com/escolhas/agricultura-na-metropole/main/static/images/social-640x320.jpg)
+
+
+# Agricultura na metropole
 
 Conheca, de forma interativa, o potencial e os desafios para a producao de alimentos na regiao metropolitana de Sao Paulo.
 
-Neste repositorio voce encontra
+Neste repositorio voce encontra os dados usados na pesquisa "Mais perto do que se imagina: os desafios da produção de alimentos na Metrópole de São Paulo, 2020".
 
 ---
 
@@ -249,3 +252,8 @@ UTF-8
 [Arquivo Geojson](VBP_municipios)
 
 Fonte: Secretaria da Agricultura e Abastecimento do Estado de Sao Paulo.
+
+
+## Licença
+
+"Mais perto do que se imagina: os desafios da produção de alimentos na Metrópole de São Paulo, 2020" por [Instituto Escolhas](https://www.escolhas.org/en/) e [Instituto Urbem](https://www.urbem.org.br/) está licenciado sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR).
