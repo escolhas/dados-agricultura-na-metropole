@@ -1,8 +1,10 @@
-Coleção 5 da Série Anual de Mapas de Cobertura e Uso do Solo do Brasil, 2019
+# Coleção 5 da Série Anual de Mapas de Cobertura e Uso do Solo do Brasil, 2019
 
 Projeção WGS 84
+
 UTF-8
-Arquivo Geojson
+
+[Arquivo Geojson](raw/uso_solo_mapbiomas/uso_solo_mapbiomas.geojson)
 
 DN:
 1 - 1.Floresta
@@ -36,6 +38,7 @@ DN:
 31 - 5.2.Aquicultura
 27 - 6.Não observado
 
-Fonte: Projeto Mapbiomas. 
+Fonte: Projeto Mapbiomas.
+ 
 Disponível em http://mapbiomas.org
 

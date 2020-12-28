@@ -3,35 +3,35 @@
 
 # Agricultura na metropole
 
-Conheca, de forma interativa, o potencial e os desafios para a producao de alimentos na regiao metropolitana de Sao Paulo.
+"Mais perto do que imagina: os desafios da produção de alimentos na metrópole de São Paulo" investigou o potencial da agricultura urbana e periurbana de tornar o sistema alimentar da maior metrópole do país mais sustentável e resiliente.
 
-Neste repositorio voce encontra os dados usados na pesquisa "Mais perto do que se imagina: os desafios da produção de alimentos na Metrópole de São Paulo, 2020".
+Neste repositório você encontra os dados utilizados e processados para a pesquisa citada acima, em arquivos do tipo Geojson com as informações correspondentes a Região Metropolitana de São Paulo, Brasil.
 
 ---
 
 ## Dados disponiveis
 
 
-- [Areas Ambientais](#areas-ambientais)
-- [Areas Urbanizadas](#areas-urbanizadas)
+- [Áreas Ambientais](#áreas-ambientais)
+- [Áreas Urbanizadas](#áreas-urbanizadas)
 - [Densidade Populacional](#densidade-populacional)
-- [Abastecimento](#abastecimento)
-- [Escolas Publicas](#escolas-publicas)
-- [Censo Agropecuario](#censo-agropecuario)
+- [Abastecimento Público](#abastecimento-público)
+- [Escolas Públicas](#escolas-públicas)
+- [Censo Agropecuário](#censo-agropecuário)
 - [Estabelecimentos in natura e misto](#estabelecimentos-in-natura-e-misto)
 - [Estabelecimentos ultraprocessados](#estabelecimentos-ultraprocessados)
-- [Indice Paulista de Vulnerabilidade Social - IPVS](#indice-paulista-de-vulnerabilidade-social-ipvs)
+- [Indice Paulista de Vulnerabilidade Social IPVS](#indice-paulista-de-vulnerabilidade-social-ipvs)
 - [Limites administrativos](#limites-administrativos)
-- [Regiao Metropolitana de Sao Paulo - RMSP](#regiao-metropolitana-de-sao-paulo-rmsp)
-- [Colecao 5 da Serie Anual de Mapas de Cobertura e Uso do Solo do Brasil](#colecao-5-da-serie-anual-de-mapas-de-cobertura-e-uso-do-solo-do-brasil)
-- [Levantamento Censitario das Unidades de Producao Agropecuaria - VBP](#levantamento-censitario-das-unidades-de-producao-agropecuaria-vbp)
+- [Região Metropolitana de São Paulo RMSP](#região-metropolitana-de-são-paulo-rmsp)
+- [Coleção 5 da Série Anual de Mapas de Cobertura e Uso do Solo do Brasil](#coleção-5-da-série-anual-de-mapas-de-cobertura-e-uso-do-solo-do-brasil)
+- [Levantamento Censitário das Unidades de Produção Agropecuária VBP](#levantamento-censitário-das-unidades-de-produção-agropecuária-vbp)
 
 
 ### Áreas Ambientais
 
 Areas Ambientais, 2018
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
@@ -47,7 +47,7 @@ Disponivel em http://datageo.ambiente.sp.gov.br
 Areas Urbanizadas, 2015
 
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
@@ -62,7 +62,7 @@ Disponivel em http://ibge.gov.br
 
 Densidade Populacional (hab/ha), 2010
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
@@ -73,17 +73,19 @@ Fonte: Instituto Brasileiro de Geografia e Estatistica (IBGE). Censo demografico
 Disponivel em http://ibge.gov.br
 
 
-### Abastecimento
+### Abastecimento Público
 
-Abastecimento, 2018
+Abastecimento Público, 2018
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
 [Arquivo Geojson](equipamentos_abastecimento)
 
-Fonte: Secretaria Municipal de Desenvolvimento, Trabalho e Empreendedorismo, Municipio de Sao Paulo. Disponivel em http://geosampa.prefeitura.sp.gov.br
+Fonte: Secretaria Municipal de Desenvolvimento, Trabalho e Empreendedorismo, Municipio de Sao Paulo. 
+
+Disponivel em http://geosampa.prefeitura.sp.gov.br
 
 Levantamento proprio nas outras cidades da RMSP, 2020.
 
@@ -92,21 +94,22 @@ Levantamento proprio nas outras cidades da RMSP, 2020.
 
 Escolas Publicas, 2016
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
 [Arquivo Geojson](escolas_publicas)
 
 Fonte: Centro de Estudos da Metropole (CEM).
+
 Disponivel em http://centrodametropole.fflch.usp.br
 
 
 ### Censo Agropecuário
 
-Censo Agropecuario, 2017
+Censo Agropecuário, 2017
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
@@ -121,7 +124,7 @@ Disponivel em http://ibge.gov.br
 
 Estabelecimentos in natura e misto, 2019
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
@@ -136,7 +139,7 @@ Disponivel em http://rais.gov.br
 
 Estabelecimentos ultraprocessados, 2019
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
@@ -151,7 +154,7 @@ Disponivel em http://rais.gov.br
 
 Indice Paulista de Vulnerabilidade Social - IPVS, 2010
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
@@ -166,7 +169,7 @@ Disponivel em http://seade.gov.br
 
 Limites administrativos, 2017
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
@@ -179,9 +182,9 @@ Disponivel em http://ibge.gov.br
 
 ### Região Metropolitana de São Paulo RMSP
 
-Regiao Metropolitana de Sao Paulo - RMSP, 2013
+Região Metropolitana de São Paulo - RMSP, 2013
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
@@ -192,11 +195,11 @@ Fonte: Centro de Estudos da Metropole (CEM).
 Disponivel em http://centrodametropole.fflch.usp.br
 
 
-### Colecao 5 da Serie Anual de Mapas de Cobertura e Uso do Solo do Brasil
+### Coleção 5 da Série Anual de Mapas de Cobertura e Uso do Solo do Brasil
 
-Colecao 5 da Serie Anual de Mapas de Cobertura e Uso do Solo do Brasil, 2019
+Coleção 5 da Série Anual de Mapas de Cobertura e Uso do Solo do Brasil, 2019
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 
@@ -243,9 +246,9 @@ Disponivel em http://mapbiomas.org
 
 ### Levantamento Censitário das Unidades de Produção Agropecuária VBP
 
-Levantamento Censitario das Unidades de Producao Agropecuaria - VBP, 2016-2017
+Levantamento Censitário das Unidades de Produção Agropecuária - VBP, 2016-2017
 
-Projecao WGS 84
+Projeção WGS 84
 
 UTF-8
 

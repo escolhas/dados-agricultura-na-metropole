@@ -1,10 +1,12 @@
-Região Metropolitana de São Paulo - RMSP, 2013
+# Região Metropolitana de São Paulo - RMSP, 2013
 
 Projeção WGS 84
+
 UTF-8
-Arquivo Geojson
 
+[Arquivo Geojson](raw/RMSP/RMSP.geojson)
 
-Fonte: Centro de Estudos da Metrópole (CEM). 
+Fonte: Centro de Estudos da Metrópole (CEM).
+ 
 Disponível em http://centrodametropole.fflch.usp.br
 
